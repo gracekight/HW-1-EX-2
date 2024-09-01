@@ -1,4 +1,5 @@
 # HW 1 EX 2
+# HW #2 STAT ID 293
 
 In this repository, students will practice using Git and GitHub. Please follow the instruction below to complete your task.
 
